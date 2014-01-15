@@ -39,7 +39,7 @@ end CE1_shell;
 architecture Behavioral of CE1_shell is
 
 signal B_NOT, D, E : STD_LOGIC;
-
+--changes
 begin
 
 B_NOT <= not B;
