@@ -1,4 +1,5 @@
 # ECE281_CE1
 # ==========
 
-Hunter's Lame Circuit
+simulation result 
+![alt text] 
